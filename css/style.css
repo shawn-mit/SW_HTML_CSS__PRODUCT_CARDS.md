@@ -1,0 +1,93 @@
+
+#browserwindow {
+	max-width: 100%;
+	margin : auto ; 
+
+}
+
+
+h2 {
+
+	border: 1px dotted lightgray;
+	text-align: center;
+	max-width: 100%;
+
+}
+
+h3 { font-style: bold; 
+
+}
+
+h5 {text-align: center;
+	color: yellow;
+	font-size: 20px;
+	background-color: darkgray;
+}
+
+
+img { 
+
+height: auto;
+width: 100%;
+height : auto;
+
+ }
+
+p {
+	text-align: justify;
+}
+
+strong {
+	text-align:left;
+}
+
+.poop  {
+max-width: 30%;
+border: 1px solid lightblue;
+float:left;
+margin: 1em;
+text-align: left;
+display: block;
+
+} 
+
+
+
+
+.toiletfloat {
+max-width: 30%;
+border: 1px solid lightblue;
+float: left;
+margin: 1em;
+text-align: left;
+display: block;
+
+}
+
+
+.beerpongfloat {
+
+max-width: 30%;
+border: 1px solid lightblue;
+float : left;
+margin: 1em;
+display: block;
+
+
+}
+
+
+.unicorn {
+
+border: 1px solid lightblue;
+float: left;
+max-width: 30%;
+margin: 1em;
+text-align: left;
+display: block;
+
+}
+
+
+
+
